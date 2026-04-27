@@ -19,6 +19,7 @@ const playfair = Playfair_Display({
 });
 
 export const metadata: Metadata = {
+  metadataBase: new URL('https://belov-dental.vercel.app'),
   title: 'Стоматология им. Белова — авторская клиника в Москве',
   description:
     'Камерная стоматология доктора Белова. Имплантация Straumann, виниры E.max, ортодонтия Invisalign. Один врач ведёт от консультации до результата. С 2008 года.',
