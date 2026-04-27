@@ -24,4 +24,4 @@ pnpm start
 
 ## Live demo
 
-(https://belov-dental.vercel.app/)
+https://belov-dental.vercel.app/
